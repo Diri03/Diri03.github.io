@@ -120,4 +120,10 @@ import Navigasi from "../../lib/Navigasi.svelte";
         align-items: center;
         cursor: pointer;
     }
+
+    @media (max-width: 768px) {
+        .listTask {
+            width: 100%;
+        }
+    }
 </style>
