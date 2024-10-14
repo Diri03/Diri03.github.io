@@ -30,7 +30,7 @@
     <div class="menu">
         <a href="/">Halaman Utama</a>
         <a href="/about">Tentang Saya</a>
-        <a href="#project">Projek</a>
+        <a href="/project">Projek</a>
         <a href="/contact">Kontak</a>
     </div>
 
@@ -39,7 +39,7 @@
             <div class="mobile-link">
                 <a href="/">Halaman Utama</a>
                 <a href="/about">Tentang Saya</a>
-                <a href="#project">Projek</a>
+                <a href="/project">Projek</a>
                 <a href="/contact">Kontak</a>
             </div>
         {/if}
