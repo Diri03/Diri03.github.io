@@ -1,9 +1,8 @@
 node_modules
 
-# Output
-.output
-.vercel
-/.svelte-kit
+# Ignore build output
+/.svelte-kit/
+build/
 
 # OS
 .DS_Store
